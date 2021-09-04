@@ -23,16 +23,11 @@ import com.example.photostore.ModelClass.ModelData;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
-
 import java.util.ArrayList;
 import java.util.List;
-
-import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;
-import androidx.core.content.ContextCompat;
-
 import android.Manifest;
-import android.content.pm.PackageManager;
+
 
 public class MainActivity extends AppCompatActivity {
 

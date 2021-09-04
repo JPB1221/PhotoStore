@@ -1,8 +1,6 @@
-
 package com.example.photostore.Adapter;
 import android.app.DownloadManager;
 import android.content.Context;
-
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.drawable.Drawable;
@@ -12,15 +10,11 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
-import android.widget.Toast;
-
 import androidx.recyclerview.widget.RecyclerView;
-
 import com.example.photostore.ModelClass.ModelData;
 import com.example.photostore.R;
 import com.squareup.picasso.Picasso;
 import com.squareup.picasso.Target;
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
